@@ -1,0 +1,16 @@
+{
+  "key.commandmenu.open": "Open command menu",
+  "key.categories.commandmenu": "Command Menu",
+  "gui.commandmenu.title": "Command Menu",
+  "gui.commandmenu.close_hint": "Esc to close",
+  "gui.commandmenu.tab.items": "Items",
+  "gui.commandmenu.tab.commands": "Commands",
+  "gui.commandmenu.search": "Search an item...",
+  "gui.commandmenu.quantity": "Qty",
+  "gui.commandmenu.target": "Player (@s, @a, name)",
+  "gui.commandmenu.custom": "Custom command...",
+  "gui.commandmenu.run": "Run",
+  "gui.commandmenu.no_result": "No item found",
+  "gui.commandmenu.help.items": "Click: quantity · Shift+click: full stack · Right click: x1 · Scroll: page",
+  "gui.commandmenu.help.commands": "Hover a button to see the exact command sent."
+}

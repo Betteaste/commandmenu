@@ -1,0 +1,16 @@
+{
+  "key.commandmenu.open": "Ouvrir le menu de commandes",
+  "key.categories.commandmenu": "Command Menu",
+  "gui.commandmenu.title": "Menu de commandes",
+  "gui.commandmenu.close_hint": "Échap pour fermer",
+  "gui.commandmenu.tab.items": "Items",
+  "gui.commandmenu.tab.commands": "Commandes",
+  "gui.commandmenu.search": "Rechercher un item...",
+  "gui.commandmenu.quantity": "Qté",
+  "gui.commandmenu.target": "Joueur (@s, @a, pseudo)",
+  "gui.commandmenu.custom": "Commande personnalisée...",
+  "gui.commandmenu.run": "Exécuter",
+  "gui.commandmenu.no_result": "Aucun item trouvé",
+  "gui.commandmenu.help.items": "Clic : quantité · Maj+clic : stack complet · Clic droit : x1 · Molette : page",
+  "gui.commandmenu.help.commands": "Survole un bouton pour voir la commande exacte envoyée."
+}
